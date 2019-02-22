@@ -1,104 +1,101 @@
 {
-  "UserList": [
-    {
-      "ID": 1,
-        "User": {
-        "name": "hubbell",
-        "ImageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hubbell.svg/2000px-Hubbell.svg.png",
-        "productsLink": "xyz.com/sadakjds",
-        "products": [
-          {
-            "name": "Hubbell product1",
-            "ImagebuttonLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hubbell.svg/2000px-Hubbell.svg.png",
-            "AssetLink": "xyz.com/svsjkfrvslnak"
-          },
-          {
-            "name": "Hubbell product2",
-            "ImagebuttonLink": "xyz.com/askdla",
-            "AssetLink": "xyz.com/sadjklsdaasnak"
-          },
-          {
-            "name": "Hubbell product3",
-            "ImagebuttonLink": "xyzcomaskdla",
-            "AssetLink": "xyz.com/vsdfvvdfsvs"
-          }
-        ]
-      }
-    },
-    {
-      "ID": 2,
-      "User": {
-        "name": "Burndy",
-        "ImageLink": "xyzsadakjds",
-        "productsLink": "xyz.com/sadakjds",
-        "products": [
-          {
-            "name": "Burndy product1",
-            "ImagebuttonLink": "xyz.com/askdla",
-            "AssetLink": "xyz.com/svsjkfrvslnak"
-          },
-          {
-            "name": "Burndy product2",
-            "ImagebuttonLink": "xyz.com/askdla",
-            "AssetLink": "xyz.com/sadjklsdaasnak"
-          },
-          {
-            "name": "Burndy product3",
-            "ImagebuttonLink": "https://hubbellcdn.com/prodimage1200/HIL_HBLHO_PRODIMAGE_1200.jpg",
-            "AssetLink": "xyz.com/vsdfvvdfsvs"
-          }
-        ]
-      }
-    },
-    {
-      "ID": 3,
-      "User": {
-        "name": "Killark",
-        "ImageLink": "xyz.com/sadakjds",
-        "productsLink": "xyz.com/sadakjds",
-        "products": [
-          {
-            "name": "Killark product1",
-            "ImagebuttonLink": "https://hubbellcdn.com/prodimage1200/KIL_F_GRR-2_Isometric_1200.jpg",
-            "AssetLink": "xyz.com/svsjkfrvslnak"
-          },
-          {
-            "name": "Killark product2",
-            "ImagebuttonLink": "xyz.com/askdla",
-            "AssetLink": "xyz.com/sadjklsdaasnak"
-          },
-          {
-            "name": "Killark product3",
-            "ImagebuttonLink": "xyz.com/askdla",
-            "AssetLink": "xyz.com/vsdfvvdfsvs"
-          }
-        ]
-      }
-    },
-    {
-      "ID": 4,
-      "User": {
-        "name": "haefleyHipotronics",
-        "ImageLink": "xyzsadakjds",
-        "productsLink": "xyz.com/akjds",
-        "products": [
-          {
-            "name": "HaefelyHipotronics product1",
-            "ImagebuttonLink": "xyz.com/askdla",
-            "AssetLink": "xyz.com/svsjkfrvslnak"
-          },
-          {
-            "name": "HaefelyHipotronics product2",
-            "ImagebuttonLink": "xyz.com/askdla",
-            "AssetLink": "xyz.com/sadjklsdaasnak"
-          },
-          {
-            "name": "HaefelyHipotronics product3",
-            "ImagebuttonLink": "xyz.com/askdla",
-            "AssetLink": "xyz.com/vsdfvvdfsvs"
-          }
-        ]
-      }
-    }
-  ]
+	"UserDetails": [{
+		"UserList": [{
+				"ID": 1,
+				"User": {
+					"name": "hubbell",
+					"ImageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hubbell.svg/2000px-Hubbell.svg.png",
+					"productsLink": "xyz.com/sadakjds",
+					"products": [{
+							"name": "Hubbell product1",
+							"ImagebuttonLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hubbell.svg/2000px-Hubbell.svg.png",
+							"AssetLink": "xyz.com/svsjkfrvslnak"
+						},
+						{
+							"name": "Hubbell product2",
+							"ImagebuttonLink": "xyz.com/askdla",
+							"AssetLink": "xyz.com/sadjklsdaasnak"
+						},
+						{
+							"name": "Hubbell product3",
+							"ImagebuttonLink": "xyzcomaskdla",
+							"AssetLink": "xyz.com/vsdfvvdfsvs"
+						}
+					]
+				}
+			},
+			{
+				"ID": 2,
+				"User": {
+					"name": "Burndy",
+					"ImageLink": "xyzsadakjds",
+					"productsLink": "xyz.com/sadakjds",
+					"products": [{
+							"name": "Burndy product1",
+							"ImagebuttonLink": "xyz.com/askdla",
+							"AssetLink": "xyz.com/svsjkfrvslnak"
+						},
+						{
+							"name": "Burndy product2",
+							"ImagebuttonLink": "xyz.com/askdla",
+							"AssetLink": "xyz.com/sadjklsdaasnak"
+						},
+						{
+							"name": "Burndy product3",
+							"ImagebuttonLink": "https://hubbellcdn.com/prodimage1200/HIL_HBLHO_PRODIMAGE_1200.jpg",
+							"AssetLink": "xyz.com/vsdfvvdfsvs"
+						}
+					]
+				}
+			},
+			{
+				"ID": 3,
+				"User": {
+					"name": "Killark",
+					"ImageLink": "xyz.com/sadakjds",
+					"productsLink": "xyz.com/sadakjds",
+					"products": [{
+							"name": "Killark product1",
+							"ImagebuttonLink": "https://hubbellcdn.com/prodimage1200/KIL_F_GRR-2_Isometric_1200.jpg",
+							"AssetLink": "xyz.com/svsjkfrvslnak"
+						},
+						{
+							"name": "Killark product2",
+							"ImagebuttonLink": "xyz.com/askdla",
+							"AssetLink": "xyz.com/sadjklsdaasnak"
+						},
+						{
+							"name": "Killark product3",
+							"ImagebuttonLink": "xyz.com/askdla",
+							"AssetLink": "xyz.com/vsdfvvdfsvs"
+						}
+					]
+				}
+			},
+			{
+				"ID": 4,
+				"User": {
+					"name": "haefleyHipotronics",
+					"ImageLink": "xyzsadakjds",
+					"productsLink": "xyz.com/akjds",
+					"products": [{
+							"name": "HaefelyHipotronics product1",
+							"ImagebuttonLink": "xyz.com/askdla",
+							"AssetLink": "xyz.com/svsjkfrvslnak"
+						},
+						{
+							"name": "HaefelyHipotronics product2",
+							"ImagebuttonLink": "xyz.com/askdla",
+							"AssetLink": "xyz.com/sadjklsdaasnak"
+						},
+						{
+							"name": "HaefelyHipotronics product3",
+							"ImagebuttonLink": "xyz.com/askdla",
+							"AssetLink": "xyz.com/vsdfvvdfsvs"
+						}
+					]
+				}
+			}
+		]
+	}]
 }
