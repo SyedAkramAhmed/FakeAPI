@@ -2,7 +2,7 @@
   "UserList": [
     {
       "ID": 1,
-      "title": "Post 1"
+      "title": "Post 1",
       "User": {
         "name": "hubbell",
         "ImageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hubbell.svg/2000px-Hubbell.svg.png",
